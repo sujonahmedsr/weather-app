@@ -90,8 +90,14 @@ body{
     width: 50px;
     margin-right: 15px;
 }
-.details .col p{
+.details .col #humidity,
+.details .col #wind{
     font-size: 30px;
     font-weight: 600;
+    color: white;
+}
+
+
+.details .col p{
     color: white;
 }
